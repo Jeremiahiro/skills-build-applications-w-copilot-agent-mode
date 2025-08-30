@@ -1,0 +1,1 @@
+<!-- Place favicon.ico in this directory. If you want to use a PNG as a favicon, reference it in index.html. -->
